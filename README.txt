@@ -39,6 +39,9 @@ so shared library loading works correctly.
 
 This library is under the zlib License, see the file "COPYING.txt" for details.
 
+########################### Not official documentation ###########################
+
+# Usage instructions
 ## CMake
 ### Compile
 /Applications/CMake.app/Contents/bin/cmake ..
